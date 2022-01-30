@@ -1,0 +1,6 @@
+1) Understand. Know exactly what is being asked. 
+2) Plan 
+3) Divide Break your big problem into sub-problems. 
+4) Make an attempt at solving it 
+5) Refactor 
+6) Reflect
