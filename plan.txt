@@ -2,5 +2,6 @@
 2) Plan 
 3) Divide Break your big problem into sub-problems. 
 4) Make an attempt at solving it 
-5) Refactor 
-6) Reflect
+5) Stuck? Debug. Reassess. Research. Ask. Caveat: Don’t look for a solution to the big problem
+6) Refactor 
+7) Reflect
